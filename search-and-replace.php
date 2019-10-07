@@ -565,10 +565,10 @@ if ( $step >= 5 ) {
 	    -moz-transition: color 0.2s linear 0s;
 	    color: #FE1301;
 	    text-decoration: underline;
-}
+	}
 
 	#container {
-		display:block;
+		display: block;
 		width: 768px;
 		padding: 10px;
 		margin: 0px auto;
@@ -603,10 +603,6 @@ if ( $step >= 5 ) {
 
 	select.multi {
 		height: 144px;
-	}
-
-
-	input.button {
 	}
 
 	div.help {
